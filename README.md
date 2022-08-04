@@ -12,3 +12,7 @@ https://webcache.googleusercontent.com/search?q=cache:kEZ2B7CywFUJ:https://vikin
 checking opencv versions
 
 dpkg -l | grep libopencv
+
+installing ceres-solver
+
+http://ceres-solver.org/installation.html#linux 
