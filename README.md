@@ -16,3 +16,9 @@ dpkg -l | grep libopencv
 installing ceres-solver
 
 http://ceres-solver.org/installation.html#linux 
+
+over clock and ros docker
+
+https://zhuanlan.zhihu.com/p/392495001
+
+https://github.com/dusty-nv/jetson-containers
