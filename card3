@@ -2,6 +2,6 @@ Jetpack 5.0, apt remove opencv
 Ran the opencv 4.5.4 script, did not install, apt unable to remove all opencv, opencv 4.2 remains on the system
 https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html
 
-clone cvbridge in src folder from `https://github.com/ros-perception/vision_opencv`
-install metis library by - `sudo apt-get install libmetis-dev`
-Do - `catkin_make -DENABLE_ARUCO_TAGS=1 `
+clone cvbridge in src folder from https://github.com/ros-perception/vision_opencv
+install metis library by - sudo apt-get install libmetis-dev
+Do - catkin_make -DENABLE_ARUCO_TAGS=1
