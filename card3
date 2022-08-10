@@ -1,0 +1,3 @@
+Jetpack 5.0, apt remove opencv
+Ran the opencv 4.5.4 script, did not install, apt unable to remove all opencv, opencv 4.2 remains on the system
+https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html
