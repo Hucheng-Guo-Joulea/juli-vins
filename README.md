@@ -26,3 +26,5 @@ https://github.com/dusty-nv/jetson-containers
 don't mess with cuda
 
 https://github.com/microsoft/onnxruntime/issues/4154
+
+Kalibr defines 
