@@ -29,4 +29,5 @@ https://github.com/microsoft/onnxruntime/issues/4154
 
 Kalibr defines 
 
-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
+SDL2 have to be compiled on NX, due to package manager losing track of opencv packages
+https://wiki.libsdl.org/Installation
